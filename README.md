@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ℹ️ I am Manish Kumar, working as a Research Scientist at BASF. 
-- 🔭 Interest: application of Reinforcement Learning and building end-to-end machine learning platform
+- 👨🏻‍💻 I am Manish Kumar, working as a Research Scientist at BASF. 
+- 🔭 Interest: application of Reinforcement Learning and MLOps
 - Hobbies: 📷 photography, follow 🏎 Formula 1
