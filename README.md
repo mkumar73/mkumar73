@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏻‍💻 I am Manish Kumar, working as a Data Scientist at BASF. 
-- 🔭 Interest: application of Reinforcement Learning and buldling seemless MLOps pipelines.
+- 🔭 Interest: Applications of RL, NAS and Meta-Learning.
 - Hobbies: 📷 Photography, follow Formula 1 🏎 
