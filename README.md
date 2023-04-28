@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I am Manish Kumar, working as a Data Scientist at BASF. 
+- 👨🏻‍💻 I'm Manish Kumar, working as a Data Scientist at BASF. 
 - 🔭 I’m currently working on application of NAS (Neural Architecture Search), and meta-learning for price forecasting.
 - 🌱 I’m currently learning MLOps.
 - Hobbies: 📷 Photography, follow Formula 1 🏎 
