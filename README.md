@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏻‍💻 I am Manish Kumar, working as a Data Scientist at BASF. 
-- 🔭 Interest: Applications of RL, NAS and Meta-Learning.
+- 🔭 I’m currently working on application of NAS (Neural Architecture Search), and meta-learning for price forecasting.
+- 🌱 I’m currently learning MLOps.
 - Hobbies: 📷 Photography, follow Formula 1 🏎 
