@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏻‍💻 I'm a data scientist / machine learning engineer. 
-- 🔭 I’m currently working on application of NAS, and meta-learning for price forecasting.
+- 🔭 I’m currently working on application of NAS, and meta-learning for forecasting.
 - 🌱 I’m currently learning MLOps.
 - Hobbies: 📷 Photography, follow Formula 1 🏎 
