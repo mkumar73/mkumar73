@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m a PhD student at TU Clauthal.
-- 👨🏻‍💻 I'm a data scientist / machine learning engineer at BASF. 
-- 🔭 I’m currently working on application of NAS time series forecasting.
+- 👨🏻‍💻 I'm a data scientist / machine learning engineer.
+- 🔭 I’m working on application of NAS for time series forecasting.
 - Hobbies: 📷 Photography, follow Formula 1 🏎 
