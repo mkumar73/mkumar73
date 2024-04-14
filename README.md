@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I'm a data scientist / machine learning engineer. 
-- 🔭 I’m currently working on application of NAS, and meta-learning for forecasting.
-- 🌱 I’m currently learning MLOps.
+- I’m a PhD student at TU Clauthal.
+- 👨🏻‍💻 I'm a data scientist / machine learning engineer at BASF. 
+- 🔭 I’m currently working on application of NAS time series forecasting.
 - Hobbies: 📷 Photography, follow Formula 1 🏎 
