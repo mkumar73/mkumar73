@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏻‍💻 I'm a data scientist / machine learning engineer.
-- 🔭 I’m working on application of NAS for time series forecasting.
+- 🔭 I’m working on application of NAS and Meta-Learning.
 - Hobbies: 📷 Photography, follow Formula 1 🏎 
