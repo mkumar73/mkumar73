@@ -1,4 +1,4 @@
-### Hello there 👋
+### hi 👋
 
 <!--
 **mkumar73/mkumar73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I'm a data scientist working on application of NAS and Meta-Learning...
+I'm a data scientist working on application of NAS and Meta-Learning...
