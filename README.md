@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkumar73&show_icons=true&theme=merko)
 -->
 
 I'm a data scientist working on applications of NAS and Meta-Learning!
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkumar73&show_icons=true&theme=merko)
+
