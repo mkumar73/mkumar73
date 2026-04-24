@@ -1,22 +1,7 @@
-### hi 👋
+# Hi, I'm Manish 👋
 
-<!--
-**mkumar73/mkumar73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist and machine learning engineer working on **tabular deep learning**, **LLM applications**, and **production ML systems**.
 
-Here are some ideas to get you started:
+Currently building **DeepTab**, an open-source library for tabular deep learning, with a focus on clean APIs, reproducible experiments, testing, documentation, and stable releases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mkumar73&show_icons=true&theme=merko)
--->
-
-I'm a data scientist / machine learning engineer!
-
+Also involved in **LLM based document extraction**, using tools such as **Python, FastAPI, MLflow, Docker, Azure, OCR, and MongoDB**.
