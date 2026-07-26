@@ -1,6 +1,6 @@
 # Hi, I'm Manish 👋
 
-Research Scientist and AI Lead working on **tabular deep learning**, **LLM applications**, **multi-agent systems**, and **production ML systems**.
+Research Scientist and AI Lead working on **tabular deep learning**, **LLM applications**, and **multi-agent systems**.
 
 My work sits between research and engineering: developing models, designing APIs, building reproducible workflows, and turning machine learning ideas into systems that can be tested, deployed, and maintained.
 
